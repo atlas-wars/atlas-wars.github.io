@@ -6,23 +6,23 @@
 			{
 				"controlPointsDistance": 70000,
 				"rotation": 0,
-				"worldX": 2301374,
-				"worldY": 5435802.5
+				"worldX": 7553958,
+				"worldY": 1133920.38
 			},
 			{
 				"controlPointsDistance": 70000,
 				"rotation": 0,
-				"worldX": 2587010.5,
-				"worldY": 4956721.5
+				"worldX": 7525289.5,
+				"worldY": 791453.5
 			},
 			{
 				"controlPointsDistance": 70000,
 				"rotation": 0,
-				"worldX": 2672938.75,
-				"worldY": 5468391.5
+				"worldX": 7250102,
+				"worldY": 1004174.88
 			}
 		],
-		"PathId": 4,
+		"PathId": 1,
 		"PathName": "GhostShip",
 		"autoSpawn": true,
 		"isLooping": false
