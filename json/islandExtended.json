@@ -193611,2747 +193611,6 @@
 		"worldX": 4479867,
 		"worldY": 3980662.5
 	},
-	"170": {
-		"animals": [
-			"Bear",
-			"Chicken",
-			"Cobra",
-			"Cow",
-			"Crow",
-			"Horse",
-			"Lion",
-			"Pig",
-			"Rabbit",
-			"Seagull",
-			"Sheep",
-			"Wolf"
-		],
-		"assets": {
-			"Balsam01": 156,
-			"Balsam02": 169,
-			"Balsam03": 176,
-			"Balsam04": 174,
-			"CloudBerries01": 21755,
-			"CloudBerries02": 42237,
-			"CloudBerries03": 38995,
-			"CloudBerries04": 37822,
-			"DeadEvergreen2": 13,
-			"DustedEvergreen1": 108,
-			"DustedEvergreen2": 88,
-			"DustedEvergreen3": 86,
-			"Garlic": 781,
-			"Huckleberry01": 32438,
-			"Huckleberry02": 31307,
-			"Huckleberry03": 31308,
-			"LRock01": 586,
-			"LRock02": 566,
-			"LRock03": 576,
-			"MRock_01": 560,
-			"MRock_02": 573,
-			"MRock_03": 601,
-			"MountainAsh01": 154,
-			"MountainAsh02": 190,
-			"MountainAsh03": 175,
-			"MountainHemlock01": 581,
-			"MountainHemlock02": 600,
-			"MtJuniperBush": 11059,
-			"OrangeSmokeBush": 13458,
-			"Potato": 113,
-			"RedSmokeBush": 2784,
-			"SM_PickUp_Rock_Sml_C_1": 1203,
-			"SM_PickUp_Rock_Sml_C_2": 1132,
-			"SM_PickUp_Rock_Sml_C_3": 1188,
-			"SM_PickUp_Rock_Sml_C_4": 1171,
-			"SM_PickUp_Rock_Sml_C_5": 1181,
-			"SRock01": 3360,
-			"SRock02": 3291,
-			"SRock03": 3287,
-			"Tamarack01": 146,
-			"Tamarack02": 143,
-			"Tamarack03": 161,
-			"Tamarack04": 283,
-			"TundraShrub01": 428,
-			"TundraShrub02": 428,
-			"Turnip": 129
-		},
-		"biomeTags": [
-			"EasternTundra",
-			"EasternTundraMountainPeak",
-			"EasternTundraWindy",
-			"Tundra"
-		],
-		"biomes": [
-			{
-				"gps": [
-					25.421201705932617,
-					27.360708236694336
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					25.617807388305664,
-					27.658382415771484
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					25.718631744384766,
-					27.16434669494629
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					25.82017707824707,
-					26.67200469970703
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					25.815095901489258,
-					27.957218170166016
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					25.915237426757812,
-					27.462017059326172
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.01572608947754,
-					26.968202590942383
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.017940521240234,
-					28.263870239257812
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.112524032592773,
-					27.76085662841797
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.11945343017578,
-					26.474422454833984
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.212310791015625,
-					27.265892028808594
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.210535049438477,
-					28.556203842163086
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.315000534057617,
-					26.7706241607666
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.31538200378418,
-					28.0675048828125
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.409608840942383,
-					27.56473159790039
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.40732192993164,
-					28.854185104370117
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.418643951416016,
-					26.276905059814453
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.51161766052246,
-					27.06829833984375
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.507976531982422,
-					28.359838485717773
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.61418914794922,
-					26.57310676574707
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.612476348876953,
-					27.871370315551758
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.60776138305664,
-					29.152572631835938
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.704761505126953,
-					28.657821655273438
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.708904266357422,
-					27.367136001586914
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.71596336364746,
-					26.080554962158203
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.804691314697266,
-					29.450803756713867
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.808940887451172,
-					26.871946334838867
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.805070877075195,
-					28.1636962890625
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.91151237487793,
-					26.37675666809082
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.911773681640625,
-					27.67377471923828
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					26.905202865600586,
-					28.956207275390625
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.001846313476562,
-					28.461679458618164
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.00623893737793,
-					27.170785903930664
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.104368209838867,
-					27.966100692749023
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.10211944580078,
-					29.254440307617188
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.109846115112305,
-					26.6785945892334
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.20229721069336,
-					28.760072708129883
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.212059020996094,
-					26.18501853942871
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.206785202026367,
-					27.465227127075195
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.3011417388916,
-					28.264083862304688
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.295726776123047,
-					29.552072525024414
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.306642532348633,
-					26.976167678833008
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.404096603393555,
-					27.76400375366211
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.39923858642578,
-					29.058292388916016
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.408546447753906,
-					26.482646942138672
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.49319076538086,
-					29.85108184814453
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.503582000732422,
-					27.274394989013672
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.498096466064453,
-					28.56231117248535
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.506654739379883,
-					25.98379898071289
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.592811584472656,
-					29.355939865112305
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.601442337036133,
-					28.06298065185547
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.606809616088867,
-					25.48879623413086
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.605310440063477,
-					26.77994155883789
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.693632125854492,
-					28.86190414428711
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.690011978149414,
-					30.149215698242188
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.702892303466797,
-					26.280963897705078
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.700571060180664,
-					27.572690963745117
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.790264129638672,
-					29.654958724975586
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.80397605895996,
-					25.787445068359375
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.801795959472656,
-					27.07756996154785
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.796178817749023,
-					28.363910675048828
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.890214920043945,
-					29.159597396850586
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.887189865112305,
-					30.447792053222656
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.903642654418945,
-					25.292781829833984
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.898761749267578,
-					26.577552795410156
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.899738311767578,
-					27.869102478027344
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.993667602539062,
-					28.664134979248047
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					27.987131118774414,
-					29.953060150146484
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.000226974487305,
-					26.084613800048828
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					27.998573303222656,
-					27.375635147094727
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.0944766998291,
-					28.169082641601562
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.087678909301758,
-					29.458606719970703
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.10080909729004,
-					25.5914249420166
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.097454071044922,
-					26.878416061401367
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.184309005737305,
-					30.251636505126953
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.191619873046875,
-					28.961261749267578
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.202190399169922,
-					25.095630645751953
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.196096420288086,
-					26.381202697753906
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.195358276367188,
-					27.673620223999023
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.23398780822754,
-					27.429393768310547
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraMountainPeak"
-				],
-				"temp": [
-					-28,
-					20
-				]
-			},
-			{
-				"gps": [
-					28.2845458984375,
-					29.75670623779297
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.292728424072266,
-					28.467815399169922
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.30490493774414,
-					24.60373878479004
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.297048568725586,
-					25.88858985900879
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.2959041595459,
-					27.179285049438477
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.394773483276367,
-					26.68207359313965
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.392297744750977,
-					27.971839904785156
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.389095306396484,
-					29.26027488708496
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.39934539794922,
-					25.394271850585938
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.481712341308594,
-					30.05528450012207
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.490097045898438,
-					26.187047958374023
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.49268913269043,
-					27.47726821899414
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.489595413208008,
-					28.764543533325195
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.499868392944336,
-					24.8990421295166
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.59428596496582,
-					26.982980728149414
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.589296340942383,
-					28.270143508911133
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.585952758789062,
-					29.558382034301758
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.599716186523438,
-					24.409053802490234
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.595596313476562,
-					25.69144058227539
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.68751335144043,
-					26.48598289489746
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.689632415771484,
-					27.775487899780273
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.685335159301758,
-					29.060958862304688
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.69703483581543,
-					25.197690963745117
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.783130645751953,
-					29.856952667236328
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.794666290283203,
-					24.704357147216797
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.788644790649414,
-					25.989898681640625
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.791702270507812,
-					27.28191566467285
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.78792953491211,
-					28.567588806152344
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.88459587097168,
-					26.784423828125
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.8822021484375,
-					29.359060287475586
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.893274307250977,
-					25.494857788085938
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.886619567871094,
-					28.07379150390625
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra"
-				],
-				"temp": [
-					-20,
-					27
-				]
-			},
-			{
-				"gps": [
-					28.983667373657227,
-					28.86400604248047
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.991832733154297,
-					25.003007888793945
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.98604965209961,
-					26.288833618164062
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					28.988759994506836,
-					27.580368041992188
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.08202362060547,
-					27.08338165283203
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.084321975708008,
-					28.371910095214844
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.07938003540039,
-					29.657638549804688
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.094070434570312,
-					24.506643295288086
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.086320877075195,
-					25.793310165405273
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.18313217163086,
-					26.5872745513916
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.180225372314453,
-					29.161649703979492
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.18808364868164,
-					25.300172805786133
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.185537338256836,
-					27.878332138061523
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.283737182617188,
-					26.092248916625977
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.280073165893555,
-					28.668319702148438
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.291227340698242,
-					24.80529022216797
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.28547477722168,
-					27.384428024291992
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.381120681762695,
-					25.59862518310547
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.38055992126465,
-					26.8862247467041
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.381784439086914,
-					28.17552375793457
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.377403259277344,
-					29.460227966308594
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.48080825805664,
-					26.390684127807617
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.48225212097168,
-					27.68239402770996
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.487476348876953,
-					25.10245704650879
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.578536987304688,
-					25.897565841674805
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.584022521972656,
-					27.187278747558594
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.578716278076172,
-					28.473726272583008
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.680522918701172,
-					25.400915145874023
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.678237915039062,
-					26.68964195251465
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.678499221801758,
-					27.979576110839844
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.775619506835938,
-					26.195999145507812
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.780784606933594,
-					27.485239028930664
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.877927780151367,
-					25.69985008239746
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.881704330444336,
-					26.990690231323242
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.87733268737793,
-					28.27652359008789
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.973047256469727,
-					26.494958877563477
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					29.977046966552734,
-					27.782428741455078
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.073047637939453,
-					28.5728759765625
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.075010299682617,
-					25.9982852935791
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.078475952148438,
-					27.288654327392578
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.17650032043457,
-					26.79601287841797
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.175880432128906,
-					28.079370498657227
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.27243995666504,
-					26.297245025634766
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.27472496032715,
-					27.585845947265625
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.373275756835938,
-					27.093971252441406
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.37158203125,
-					28.3757266998291
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.473560333251953,
-					27.882783889770508
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.475906372070312,
-					26.598299026489258
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.569522857666016,
-					27.391159057617188
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.672666549682617,
-					26.896255493164062
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.66926383972168,
-					28.179136276245117
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			},
-			{
-				"gps": [
-					30.868928909301758,
-					27.193445205688477
-				],
-				"name": "Western Tundra",
-				"tags": [
-					"Tundra",
-					"EasternTundra",
-					"EasternTundraWindy"
-				],
-				"temp": [
-					-22,
-					23
-				]
-			}
-		],
-		"discoveries": [],
-		"grid": "D3",
-		"homeServer": false,
-		"id": 170,
-		"isControlPoint": false,
-		"islandHeight": 305000,
-		"islandPoints": 0,
-		"islandWidth": 305000,
-		"maps": [
-			[
-				1,
-				1,
-				4,
-				1
-			],
-			[
-				0.4000000059604645,
-				4,
-				8,
-				2
-			],
-			[
-				0.15000000596046448,
-				8,
-				12,
-				2
-			],
-			[
-				0.05999999865889549,
-				12,
-				16,
-				2
-			],
-			[
-				0.019999999552965164,
-				16,
-				20,
-				2
-			]
-		],
-		"name": "Mnt_T_WU",
-		"region": "",
-		"resources": {
-			"Arctic Raspberry": 263163,
-			"Basalt": 13400,
-			"Bone Chips": 1,
-			"Fir": 2589,
-			"Garlic": 781,
-			"Granite": 13400,
-			"Iron": 13400,
-			"Lingonberry": 856,
-			"Maps": 18,
-			"Pine": 814,
-			"Roots": 3403,
-			"Sandstone": 5875,
-			"Wild Potato": 113,
-			"Wild Turnip": 129
-		},
-		"rotation": 33.4362679,
-		"sublevels": [
-			"Mnt_T_Far_06",
-			"Mnt_T_Farthest_06",
-			"Mnt_T_Near_06",
-			"Mnt_T_Marine_Cold_Near",
-			"Mnt_T_PO"
-		],
-		"worldX": 5384837,
-		"worldY": 3045409.75
-	},
 	"171": {
 		"animals": [
 			"Bear",
@@ -197981,5 +195240,890 @@
 		],
 		"worldX": 3830987.25,
 		"worldY": 6056212.5
+	},
+	"172": {
+		"animals": [
+			"Bear",
+			"Chicken",
+			"Cobra",
+			"Cow",
+			"Crow",
+			"Horse",
+			"Lion",
+			"Pig",
+			"Rabbit",
+			"Seagull",
+			"Sheep",
+			"Wolf"
+		],
+		"assets": {
+			"Balsam02": 11,
+			"Balsam03": 150,
+			"Balsam04": 154,
+			"Calcite": 31,
+			"CloudBerries01": 17580,
+			"CloudBerries02": 20872,
+			"CloudBerries03": 20821,
+			"CloudBerries04": 20858,
+			"DeadEvergreen1": 354,
+			"DeadEvergreen2": 351,
+			"DustedEvergreen1": 358,
+			"DustedEvergreen2": 349,
+			"DustedEvergreen3": 337,
+			"Evergreen1": 260,
+			"Evergreen2": 248,
+			"Fir": 952,
+			"Garlic": 2415,
+			"Greens01": 2462,
+			"Huckleberry01": 5722,
+			"Huckleberry02": 5777,
+			"Huckleberry03": 5774,
+			"LRock01": 503,
+			"LRock02": 320,
+			"LRock03": 362,
+			"Lingonberry01": 1265,
+			"MRock_01": 403,
+			"MRock_02": 539,
+			"MRock_03": 400,
+			"Marble": 132,
+			"MountainAsh01": 243,
+			"MountainAsh02": 231,
+			"MountainAsh03": 230,
+			"MountainHemlock01": 90,
+			"MountainHemlock02": 80,
+			"MtJuniperBush": 17593,
+			"OrangeSmokeBush": 11291,
+			"Pine": 886,
+			"Potato": 1551,
+			"Raspberry01": 490,
+			"RedSmokeBush": 4890,
+			"Roots": 348,
+			"SM_PickUp_Rock_Sml_C_1": 281,
+			"SM_PickUp_Rock_Sml_C_2": 268,
+			"SM_PickUp_Rock_Sml_C_3": 266,
+			"SM_PickUp_Rock_Sml_C_4": 2904,
+			"SM_PickUp_Rock_Sml_C_5": 1814,
+			"SM_Radiolarite": 16,
+			"SRock01": 1809,
+			"SRock02": 2400,
+			"SRock03": 2444,
+			"Sulfur": 157,
+			"Tamarack01": 145,
+			"Tamarack02": 4,
+			"Tamarack03": 4,
+			"Tamarack04": 3,
+			"Tin": 18,
+			"TundraShrub01": 6287,
+			"TundraShrub02": 6308,
+			"WeepingCedar01": 235,
+			"WeepingCedar02": 226
+		},
+		"biomeTags": [
+			"CentralTundra",
+			"EasternTundra",
+			"EasternTundraMountainPeak",
+			"EasternTundraWindy",
+			"Tundra"
+		],
+		"biomes": [
+			{
+				"gps": [
+					25.9958438873291,
+					24.437028884887695
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.014942169189453,
+					25.161409378051758
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.014965057373047,
+					25.869386672973633
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.014986038208008,
+					26.577863693237305
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.014917373657227,
+					27.293004989624023
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.014942169189453,
+					28.00098419189453
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.014965057373047,
+					28.70945930480957
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.707082748413086,
+					24.437053680419922
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.72527503967285,
+					25.154220581054688
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					26.725250244140625,
+					25.868410110473633
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					26.72522735595703,
+					26.582292556762695
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					26.72522735595703,
+					27.29302978515625
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.725250244140625,
+					28.001007080078125
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					26.72527503967285,
+					28.709484100341797
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					27.42517852783203,
+					24.437076568603516
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					27.43639373779297,
+					25.154197692871094
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					27.436368942260742,
+					25.868385314941406
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					27.438011169433594,
+					26.58231544494629
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					27.438011169433594,
+					27.293052673339844
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					27.96315574645996,
+					26.604244232177734
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraMountainPeak"
+				],
+				"temp": [
+					-28,
+					20
+				]
+			},
+			{
+				"gps": [
+					28.138225555419922,
+					24.437076568603516
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					28.144392013549805,
+					25.154172897338867
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.14436912536621,
+					25.868362426757812
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.14720344543457,
+					26.58236312866211
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.14720344543457,
+					27.293100357055664
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					28.44971466064453,
+					23.47439193725586
+				],
+				"name": "Central Tundra",
+				"tags": [
+					"Tundra",
+					"CentralTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.856321334838867,
+					24.437101364135742
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					28.859678268432617,
+					25.154150009155273
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.85965347290039,
+					25.868337631225586
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.857057571411133,
+					26.582340240478516
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					28.857057571411133,
+					27.29307746887207
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					28.85708236694336,
+					28.005577087402344
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					29.56415367126465,
+					24.437101364135742
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					29.57282066345215,
+					26.58231544494629
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					29.57282066345215,
+					27.293052673339844
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					29.572845458984375,
+					28.005552291870117
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					29.57286834716797,
+					28.72076988220215
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					29.575439453125,
+					25.154125213623047
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					29.575416564941406,
+					25.868314743041992
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra"
+				],
+				"temp": [
+					-20,
+					27
+				]
+			},
+			{
+				"gps": [
+					30.282249450683594,
+					24.437124252319336
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					30.2822265625,
+					25.147506713867188
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					30.282249450683594,
+					25.862720489501953
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					30.282201766967773,
+					26.57662582397461
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					30.2822265625,
+					27.291839599609375
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					30.28217887878418,
+					28.00552749633789
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			},
+			{
+				"gps": [
+					30.282201766967773,
+					28.720745086669922
+				],
+				"name": "Western Tundra",
+				"tags": [
+					"Tundra",
+					"EasternTundra",
+					"EasternTundraWindy"
+				],
+				"temp": [
+					-22,
+					23
+				]
+			}
+		],
+		"discoveries": [],
+		"grid": "D3",
+		"homeServer": false,
+		"id": 172,
+		"isControlPoint": false,
+		"islandHeight": 306000,
+		"islandPoints": 0,
+		"islandWidth": 306000,
+		"maps": [
+			[
+				1,
+				1,
+				4,
+				1
+			],
+			[
+				0.4000000059604645,
+				4,
+				8,
+				2
+			],
+			[
+				0.15000000596046448,
+				8,
+				12,
+				2
+			],
+			[
+				0.05999999865889549,
+				12,
+				16,
+				2
+			],
+			[
+				0.019999999552965164,
+				16,
+				20,
+				2
+			]
+		],
+		"meshes": [
+			"Mnt_W_Farthest_06:PersistentLevel.SMOptimizedToInstancedSM-SM_WD_Rock_Huge_A-1"
+		],
+		"name": "Mnt_W_WU",
+		"region": "",
+		"resources": {
+			"Arctic Raspberry": 80621,
+			"Basalt": 503,
+			"Chert": 8825,
+			"Cotton": 23886,
+			"Fir": 5440,
+			"Garlic": 2415,
+			"Granite": 503,
+			"Iron": 9198,
+			"Lingonberry": 18538,
+			"Maps": 27,
+			"Marble": 14342,
+			"Nitre": 157,
+			"Opal": 31,
+			"Pine": 461,
+			"Quartz": 31,
+			"Resin": 4890,
+			"Roots": 5363,
+			"Rosemary": 17593,
+			"Rushes": 886,
+			"Wild Greens": 2462,
+			"Wild Potato": 1551
+		},
+		"rotation": 0,
+		"sublevels": [
+			"Mnt_W_Far_06",
+			"Mnt_W_Farthest_06",
+			"Mnt_W_Near_06",
+			"Mnt_W_Marine_Cold_Near",
+			"Mnt_W_PO"
+		],
+		"worldX": 5374455.5,
+		"worldY": 3066173.75
 	}
 }
